@@ -19,5 +19,4 @@ steps:
   inputs:
     targetType: 'inline'
     script: 'echo ''Hello world'' > testfile'
-
-
+- task: WhiteSource@21
